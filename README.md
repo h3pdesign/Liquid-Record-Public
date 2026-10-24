@@ -12,12 +12,11 @@ GitHub Pages serves the `main` branch root. `.nojekyll` enables direct static se
 
 Run `python3 -m http.server 8080` in this folder, then open http://localhost:8080.
 
-## Updating after App Store approval
+## App Store release
 
-- Replace the Apple-review status and availability FAQ with the verified release status.
-- Add the live App Store link to the hero and closing call to action.
-- Confirm the displayed in-app purchase price and feature restrictions.
-- Keep device-dependent feature qualifications and legal links accurate.
+Liquid Record is available for iPhone and iPad: https://apps.apple.com/app/id6812232944
+
+The app is free to download, with an optional one-time Full Access in-app purchase (€9.99 in Germany, verified against the App Store listing on October 24, 2026). Local prices may vary. Keep pricing, feature restrictions, device-dependent qualifications, and legal links accurate when updating the site.
 
 Screenshots were supplied by the app owner. A QA purchase screen was intentionally excluded.
 
